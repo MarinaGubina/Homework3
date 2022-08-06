@@ -140,5 +140,6 @@ public class Main {
             System.out.println("Максимальный платеж при ЗП " + salary + " равен " + paymentMonth+ " рублей. Платеж по кредиту " + wantedSum + " рублей. Одобрено.");
         }
 
+
     }
 }
